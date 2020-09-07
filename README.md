@@ -2,7 +2,7 @@
 
 <!--
 **wechyu88/wechyu88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Chengyuan's github stats](https://github-readme-stats.vercel.app/api?username=wechyu88&theme=radical) 
+![Chengyuan's github stats](https://github-readme-stats.vercel.app/api?username=wechyu88&show_icons=true&theme=radical)
 
 
 Here are some ideas to get you started:
